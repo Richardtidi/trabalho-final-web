@@ -1,2 +1,3 @@
-# trabalho-final-web
-Trabalho de WEB Finalizado.
+Trabalho Fina de desenvolvimento WEB 
+Nosso site é dedicado a apoiar estudantes que embarcaram no curso de Ciência da Computação e estão enfrentando desafios. Aqui, disponibilizamos uma seleção de cursos - gratuitos e pagos - para ajudá-lo a avançar no curso e ampliar seu conhecimento. É importante ressaltar que compartilhamos esses cursos, mas não somos responsáveis por sua criação. Nosso objetivo é ser um guia nessa jornada acadêmica, oferecendo recursos valiosos para impulsionar o seu aprendizado.
+Nosso site é intuitivo e de fácil navegação. Ao acessar o menu inicial, você será recebido com informações sobre nosso trabalho. Para explorar nossos cursos, basta selecionar a guia do segmento desejado e escolher o curso que mais lhe interessa.
